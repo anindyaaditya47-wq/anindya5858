@@ -29,5 +29,4 @@ interests:
 
 offline:
   - guitar
-  - football
-  - cricket
+  -exploring
